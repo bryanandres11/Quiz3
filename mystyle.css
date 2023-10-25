@@ -25,7 +25,7 @@ a:hover{
     background-color: rgb(74, 73, 71);
 }
 body{
-    background-image:linear-gradient(rgba(50, 50, 50, 0.75),rgba(50, 50, 50, 0.75)), url('MMSU..jpg');
+    background-image:linear-gradient(rgba(50, 50, 50, 0.75),rgba(50, 50, 50, 0.75)), url('/quiz3/MMSU..jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
